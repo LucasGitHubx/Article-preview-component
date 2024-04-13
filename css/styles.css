@@ -24,7 +24,8 @@ main{
     min-width: 320px;
     max-width: 1002px;
     margin: 0 1rem;
-    border: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
 
     display: flex;
     flex-flow: row wrap;
